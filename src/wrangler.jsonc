@@ -2,5 +2,9 @@
   "name": "dtjoekoerin",
   "main": "src/index.js",
   "compatibility_date": "2026-09-24",
-  "workers_dev": true
+  "workers_dev": true,
+  "assets": {
+    "directory": "./public",
+    "binding": "ASSETS"
+  }
 }
