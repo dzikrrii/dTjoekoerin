@@ -1,5 +1,6 @@
 {
   "name": "dtjoekoerin",
   "main": "src/index.js",
-  "compatibility_date": "2026-09-24"
+  "compatibility_date": "2026-09-24",
+  "workers_dev": true
 }
